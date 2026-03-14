@@ -1,6 +1,6 @@
 name: Nasrin-Pipeline
  
-on: push
+on: workflow_dispatch
  
 jobs:
  Nasrin-test-job: 
